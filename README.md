@@ -9,3 +9,9 @@ A housing platform that connects people looking for rental or shared accommodati
 - Mariam Beshoi Telmeez
 ## Instructor
 Eng/Mohamed Abo Kamar
+## Project Objectives
+- Simplify the process of finding suitable rental and shared housing options in Egypt.
+- Help users discover housing options based on their needs, preferences, budget, and preferred location.
+- Facilitate roommate matching by helping users identify people with compatible lifestyles and preferences.
+- Provide property owners and real estate agents with a platform to reach potential tenants and showcase available properties.
+
