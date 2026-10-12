@@ -6,4 +6,4 @@ A housing platform that connects people looking for rental or shared accommodati
 - Yomna Ali Mahmoud
 - Reta Wagih Zaki
 - Nesma Mohamed Bedewy
-- Mariam Beshio Talmiz
+- Mariam Beshoi Telmeez
