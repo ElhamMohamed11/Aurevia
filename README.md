@@ -8,4 +8,4 @@ A housing platform that connects people looking for rental or shared accommodati
 - Nesma Mohamed Bedewy
 - Mariam Beshoi Telmeez
 ## Instructor
-Eng/ Mohamed Abo Kamar
+Eng/Mohamed Abo Kamar
