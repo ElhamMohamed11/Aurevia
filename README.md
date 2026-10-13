@@ -32,4 +32,6 @@ Eng/Mohamed Abo Kamar
 ### Target Users
 - **Primary Users:** Students, young professionals, newcomers, and roommate seekers.
 - **Secondary Users:** Landlords and real estate agents.
+## Project plan 
+5 Weeks
 
