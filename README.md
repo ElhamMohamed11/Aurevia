@@ -2,7 +2,7 @@
 ## Project Overview
 A housing platform that connects people looking for rental or shared accommodation with suitable housing options and compatible roommates, while helping property owners and agents reach potential tenants in Egypt.
 ## Team members
-- Reta Wagih Zaki
+- Reta Wagih Zaki (Team Leader)
 - Elham Mohamed Fathy
 - Yomna Ali Mahmoud
 - Nesma Mohamed Bedewy
